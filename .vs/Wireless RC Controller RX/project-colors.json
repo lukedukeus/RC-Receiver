@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "07be5f33-de69-4829-9248-cadfacc1a527": {
+      "ProjectGuid": "07be5f33-de69-4829-9248-cadfacc1a527",
+      "DisplayName": "Wireless RC Controller RX",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

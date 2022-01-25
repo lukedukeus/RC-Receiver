@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\lvanzweden\Desktop\temp\Wireless RC Controller RX\bin\Debug\Wireless RC Controller RX.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lvanzweden\Desktop\temp\Wireless RC Controller RX\bin\Debug\Wireless RC Controller RX.InstallLog
+   assemblypath = C:\Users\lvanzweden\Desktop\temp\Wireless RC Controller RX\bin\Debug\Wireless RC Controller RX.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\lvanzweden\Desktop\temp\Wireless RC Controller RX\bin\Debug\Wireless RC Controller RX.exe assembly.
+Committing assembly 'C:\Users\lvanzweden\Desktop\temp\Wireless RC Controller RX\bin\Debug\Wireless RC Controller RX.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lvanzweden\Desktop\temp\Wireless RC Controller RX\bin\Debug\Wireless RC Controller RX.InstallLog
+   assemblypath = C:\Users\lvanzweden\Desktop\temp\Wireless RC Controller RX\bin\Debug\Wireless RC Controller RX.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\lvanzweden\Desktop\temp\Wireless RC Controller RX\bin\Debug\Wireless RC Controller RX.exe assembly.
+Remove InstallState file because there are no installers.

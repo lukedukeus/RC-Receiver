@@ -1,0 +1,12 @@
+C:\Users\lvanzweden\Desktop\temp\Wireless RC Controller RX\bin\Debug\Wireless RC Controller RX.exe.config
+C:\Users\lvanzweden\Desktop\temp\Wireless RC Controller RX\bin\Debug\Wireless RC Controller RX.exe
+C:\Users\lvanzweden\Desktop\temp\Wireless RC Controller RX\bin\Debug\Wireless RC Controller RX.pdb
+C:\Users\lvanzweden\Desktop\temp\Wireless RC Controller RX\obj\Debug\Wireless RC Controller RX.csproj.AssemblyReference.cache
+C:\Users\lvanzweden\Desktop\temp\Wireless RC Controller RX\obj\Debug\Wireless RC Controller RX.csproj.CoreCompileInputs.cache
+C:\Users\lvanzweden\Desktop\temp\Wireless RC Controller RX\obj\Debug\Wireless RC Controller RX.exe
+C:\Users\lvanzweden\Desktop\temp\Wireless RC Controller RX\obj\Debug\Wireless RC Controller RX.pdb
+C:\Users\lvanzweden\Desktop\temp\Wireless RC Controller RX\obj\Debug\Wireless RC Controller RX.csproj.CopyComplete
+C:\Users\lvanzweden\Desktop\temp\Wireless RC Controller RX\bin\Debug\JetBrains.Annotations.dll
+C:\Users\lvanzweden\Desktop\temp\Wireless RC Controller RX\bin\Debug\JetBrains.Annotations.xml
+C:\Users\lvanzweden\Desktop\temp\Wireless RC Controller RX\bin\Debug\vJoyInterfaceWrap.dll
+C:\Users\lvanzweden\Desktop\temp\Wireless RC Controller RX\obj\Debug\Wireless RC Controller RX.csproj.SuggestedBindingRedirects.cache
